@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/backpack" android:duration="2000"></item>
+    <item android:drawable="@drawable/bracelet" android:duration="2000"></item>
+    <item android:drawable="@drawable/necklace" android:duration="2000"></item>
+    <item android:drawable="@drawable/shoes" android:duration="2000"></item>
+</animation-list>
